@@ -74,7 +74,7 @@ project/
 
 ```bash
 # 克隆仓库
-git clone https://github.com/wangzhizhou/dir2prompt.git
+git clone https://github.com/Jeffjeno/dir2prompt.git
 cd dir2prompt
 
 # 安装开发依赖

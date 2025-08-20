@@ -28,9 +28,9 @@ classifiers = [
 keywords = ["directory", "tree", "file-structure", "command-line"]
 
 [project.urls]
-"Homepage" = "https://github.com/wangzhizhou/dir2prompt"
-"Bug Reports" = "https://github.com/wangzhizhou/dir2prompt/issues"
-"Source" = "https://github.com/wangzhizhou/dir2prompt"
+"Homepage" = "hhttps://github.com/Jeffjeno/dir2prompt"
+"Bug Reports" = "https://github.com/Jeffjeno/dir2prompt/issues"
+"Source" = "https://github.com/Jeffjeno/dir2promptt"
 
 [project.scripts]
 dir2prompt = "dir2prompt.main:main"
